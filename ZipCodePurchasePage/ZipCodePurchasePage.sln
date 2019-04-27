@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCodePurchasePage", "ZipCodePurchasePage\ZipCodePurchasePage.csproj", "{59BD638C-91D7-4B11-9B63-11F3FF2E54EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCodePurchasePage.Tests", "ZipCodePurchasePage.Tests\ZipCodePurchasePage.Tests.csproj", "{49D6DEA1-22C8-4C0C-8BB8-A429BF879702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BD638C-91D7-4B11-9B63-11F3FF2E54EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BD638C-91D7-4B11-9B63-11F3FF2E54EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BD638C-91D7-4B11-9B63-11F3FF2E54EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BD638C-91D7-4B11-9B63-11F3FF2E54EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D6DEA1-22C8-4C0C-8BB8-A429BF879702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D6DEA1-22C8-4C0C-8BB8-A429BF879702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D6DEA1-22C8-4C0C-8BB8-A429BF879702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D6DEA1-22C8-4C0C-8BB8-A429BF879702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53BC954A-985D-42EC-85E8-95FD4932B96A}
+	EndGlobalSection
+EndGlobal
